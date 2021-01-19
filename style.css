@@ -94,6 +94,7 @@ body {
   display: grid;
   grid-template-rows: 90% 10%;
   align-items: flex-end;
+  box-shadow: inset -5em -20em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
 #image_title {
@@ -117,6 +118,7 @@ body {
   display: grid;
   grid-template-rows: 85% 15%;
   align-items: flex-end;
+  box-shadow: inset -5em -20em 9em -2em rgba(0, 0, 0, 0.685); 
 }
 
 #section1_box3 {
@@ -126,6 +128,7 @@ body {
   display: grid;
   grid-template-rows: 85% 15%;
   align-items: flex-end;
+  box-shadow: inset -5em -20em 9em -2em rgba(0, 0, 0, 0.685); 
 }
 
 .flex_text {
@@ -383,6 +386,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: end;
+  box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
 #part2_1 > a {
@@ -472,6 +476,7 @@ ul li:hover {
   display: flex;
   flex-direction: column;
   justify-content: end;
+  box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
 #part2_2 > a {
@@ -502,6 +507,7 @@ ul li:hover {
   display: flex;
   flex-direction: column;
   justify-content: end;
+  box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
 #part2_3 > a {
@@ -532,6 +538,7 @@ ul li:hover {
   display: flex;
   flex-direction: column;
   justify-content: end;
+  box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
 #part2_4 > a {
@@ -551,6 +558,7 @@ ul li:hover {
   background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/ev-phantom-rols-royce-silent-shadow-car-future-electric-vehicle.jpg);
   background-position: center;
   background-size: cover;
+
 }
 
 /* 5 */
@@ -563,6 +571,7 @@ ul li:hover {
   width: 100%;
   flex-direction: column;
   justify-content: end;
+  box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
 #part2_5 > a {
@@ -593,6 +602,7 @@ ul li:hover {
   display: flex;
   flex-direction: column;
   justify-content: end;
+  box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
 #part2_6 > a {
@@ -623,6 +633,7 @@ ul li:hover {
   display: flex;
   flex-direction: column;
   justify-content: end;
+  box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
 #part2_7 > a {
@@ -653,6 +664,7 @@ ul li:hover {
   display: flex;
   flex-direction: column;
   justify-content: end;
+  box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
 #part2_8 > a {
@@ -683,6 +695,7 @@ ul li:hover {
   display: flex;
   flex-direction: column;
   justify-content: end;
+  box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
 #part2_9 > a {
