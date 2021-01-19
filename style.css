@@ -461,6 +461,15 @@ footer {
   background-color: #333333;
 }
 
+#box_footer1 > a > img {
+  color: white;
+  padding: 13px;
+  border-radius: 50%;
+  background-color: #333333;
+  width: 20px;
+  height: 15px;
+}
+
 #box_footer2 {
   display: flex;
   justify-content: center;
