@@ -840,3 +840,17 @@ footer {
 #stackpath {
   color: white;
 }
+
+#box_footer1 > a > img:hover {
+  background-color: black;
+  border: 2px solid #333333;
+}
+
+#box_footer1 > a > i:hover {
+  background-color: black;
+  border: 2px solid #333333;
+}
+
+#box_footer2 > a:hover {
+  color: white;
+}
