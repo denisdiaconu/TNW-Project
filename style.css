@@ -600,7 +600,7 @@ body {
   background-size: cover;
   display: flex;
   flex-direction: column;
-  justify-content: end;
+  justify-content: flex-end;
   box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
@@ -659,7 +659,7 @@ ul li:hover {
   background-size: cover;
   display: flex;
   flex-direction: column;
-  justify-content: end;
+  justify-content: flex-end;
   box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
@@ -677,7 +677,7 @@ ul li:hover {
   background-size: cover;
   display: flex;
   flex-direction: column;
-  justify-content: end;
+  justify-content: flex-end;
   box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
@@ -695,7 +695,7 @@ ul li:hover {
   background-size: cover;
   display: flex;
   flex-direction: column;
-  justify-content: end;
+  justify-content: flex-end;
   box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
@@ -714,7 +714,7 @@ ul li:hover {
   display: flex;
   width: 100%;
   flex-direction: column;
-  justify-content: end;
+  justify-content: flex-end;
   box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
@@ -732,7 +732,7 @@ ul li:hover {
   background-size: cover;
   display: flex;
   flex-direction: column;
-  justify-content: end;
+  justify-content: flex-end;
   box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
@@ -750,7 +750,7 @@ ul li:hover {
   background-size: cover;
   display: flex;
   flex-direction: column;
-  justify-content: end;
+  justify-content: flex-end;
   box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
@@ -768,7 +768,7 @@ ul li:hover {
   background-size: cover;
   display: flex;
   flex-direction: column;
-  justify-content: end;
+  justify-content: flex-end;
   box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
@@ -786,7 +786,7 @@ ul li:hover {
   background-size: cover;
   display: flex;
   flex-direction: column;
-  justify-content: end;
+  justify-content: flex-end;
   box-shadow: inset -5em -14em 9em -2em rgba(0, 0, 0, 0.685);
 }
 
