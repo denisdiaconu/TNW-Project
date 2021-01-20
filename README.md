@@ -4,7 +4,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/denisdiaconu/Project1/test_project/screenshot2.png)
 
-Clone of the New York Times website page. This project features Positioning and floating elements.
+Clone of the The Next Web website page putting emphasis on how it behaves differently depending on the size of the screen.
 
 ## Built With
 
@@ -15,7 +15,7 @@ Clone of the New York Times website page. This project features Positioning and 
 ## Live Demo
 
 HEAD TO
-[NYT PROJECT](https://denisdiaconu.github.io/Project1/)
+[TNW PROJECT](https://denisdiaconu.github.io/TNW-Project/)
 =======
 
 
@@ -26,6 +26,8 @@ HEAD TO
 Knowledge about HTML and CSS.
 HTML Semantic elements.
 CSS flex property.
+CSS grid property.
+Media querry
 
 
 
