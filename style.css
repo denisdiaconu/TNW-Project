@@ -277,7 +277,7 @@ a {
   align-items: center;
 }
 
-#button_search {
+.button_search {
   display: grid;
   justify-items: center;
   align-items: center;
