@@ -76,7 +76,7 @@ a {
   align-items: center;
 }
 
-#search_button {
+#button_search {
   display: grid;
   justify-items: center;
   align-items: center;
