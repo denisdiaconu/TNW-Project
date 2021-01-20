@@ -30,6 +30,8 @@ a {
 
 .nav-bar2_links {
   font-size: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 #nav_bar1 > div > a {
@@ -62,6 +64,11 @@ a {
 #nav_bar2 > div {
   width: 100%;
   height: 100%;
+}
+
+#logo_top {
+  display: none;
+  background-color: black;
 }
 
 #nav_bar2_cont {
@@ -119,6 +126,12 @@ a {
 #cont_search_menu {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  width: 100%;
+  height: 100%;
+}
+
+.menu_logo {
+  border-left: 1px solid #eeeeee;
 }
 
 
@@ -991,6 +1004,21 @@ footer {
     width: 100%;
   }
 
+  #image_title,
+  #image_title2,
+  #image_title3 {
+    font-size: 18px;
+  }
+
+  .flex_text {
+    margin: 10px;
+    font-size: 14px;
+  }
+
+  .flex_text > a {
+    font-size: 14px;
+  }
+
   .section2_items > div {
     display: grid;
   }
@@ -999,7 +1027,7 @@ footer {
     display: flex;
     align-items: flex-start;
   }
-  
+
   #title2 {
     display: grid;
   }
@@ -1066,6 +1094,84 @@ footer {
 
 /* Tablet size */
 
-@media only screen and (min-width: 768px) {
+@media (max-width: 1024px) and (min-width: 600px) {
+  #nav_bar2 {
+    grid-template-columns: 55% 40% 5%;
+  }
+  #section1 {
+    height: 320px;
+  }
+  #logo_top {
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    padding-right: 15px;
+    padding-left: 15px;
+    height: 100%;
+    color: white;
+  }
+  .nav-bar2_links {
+    width: 19%;
+    font-size: 13px;
+  }
+  #image_title {
+    font-size: 25px;
+  }
+  #image_title2,
+  #image_title3 {
+    font-size: 20px;
+  }
+  #section1_box1 {
+    grid-template-rows: 85% 15%;
+  }
+  #section1_box2 {
+    grid-template-rows: 80% 20%;
+  }
 
+  .flex_text {
+    margin: 10px;
+    font-size: 10px;
+  }
+
+  #title2 {
+    display: grid;
+    row-gap: 20px;
+  }
+  #section2 {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  #section3 {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  #section3_hide {
+    display: none;
+  }
+
+  .layer_top1 > a {
+    margin-left: 21%;
+  }
+
+  .layer_top1 > img {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    margin: 15px 0 0 2%;
+  }
+  .layer_top2 > h5 {
+    margin-left: 40%;
+  }
+  .layer_top2 > a {
+    margin-left: 40%;
+  }
+  #section4 {
+    grid-template-columns: 1fr 1fr;
+  }
+  #section5 {
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 1000px;
+  }
+  #section5_items {
+  }
 } 
+
+
