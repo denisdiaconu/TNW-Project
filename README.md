@@ -2,7 +2,7 @@
 
 # TNW Clone Project
 
-![screenshot](https://github.com/denisdiaconu/TNW-Project/blob/main/Screenshot%20from%202021-01-20%2016-40-43.png)
+![screenshot](https://github.com/denisdiaconu/TNW-Project/blob/test-project/Screenshot%20from%202021-01-20%2016-40-43.png)
 
 Clone of the The Next Web website page putting emphasis on how it behaves differently depending on the size of the screen.
 
