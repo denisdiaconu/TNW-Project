@@ -2,7 +2,7 @@
 
 # TNW Clone Project
 
-![screenshot](https://raw.githubusercontent.com/denisdiaconu/Project1/test_project/screenshot2.png)
+![screenshot](https://github.com/denisdiaconu/TNW-Project/blob/main/Screenshot%20from%202021-01-20%2016-40-43.png)
 
 Clone of the New York Times website page. This project features Positioning and floating elements.
 
