@@ -7,3 +7,28 @@
 @import "./section3";
 @import "./section4";
 @import "./section5";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  .body {
+    font-family: ARS Maquette, Helvetica Neue, Arial, sans-serif;
+    width: 100%;
+  }
+
+  ul {
+    list-style: none;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  a {
+    text-decoration: none;
+    color: black;
+  }
+
+}
