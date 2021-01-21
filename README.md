@@ -10,7 +10,7 @@ Clone of the The Next Web website page putting emphasis on how it behaves differ
 
 - HTML5
 - CSS
--Media querry
+- Media querry
 
 
 ## Live Demo
@@ -24,11 +24,11 @@ HEAD TO
 
 
 ### Prerequisites
-Knowledge about HTML and CSS.
-HTML Semantic elements.
-CSS flex property.
-CSS grid property.
-Media querry
+-  Knowledge about HTML and CSS
+-  HTML Semantic elements
+-  CSS flex property
+-- CSS grid property
+-  Media querry
 
 
 
