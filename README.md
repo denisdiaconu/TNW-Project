@@ -24,11 +24,13 @@ HEAD TO
 
 
 ### Prerequisites
+
 -  Knowledge about HTML and CSS
 -  HTML Semantic elements
 -  CSS flex property
 -- CSS grid property
 -  Media querry
+
 
 
 
