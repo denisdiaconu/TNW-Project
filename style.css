@@ -371,8 +371,8 @@ body {
   height: auto;
   background-color: #f0f0f0;
   grid-template-columns: unset;
-  padding: 8px;
   grid-gap: 10px;
+  padding: 10px 0 10px 0;
   margin: 10px auto auto auto;
 }
 
@@ -438,7 +438,7 @@ body {
 #title1 {
   margin: auto;
   display: flex;
-  width: 97%;
+  width: 90%;
   margin-top: 60px;
   margin-bottom: 30px;
   justify-content: start;
@@ -450,8 +450,8 @@ body {
 }
 
 #section2 {
-  width: 97%;
-  height: auto;
+  width: 90%;
+  height: 750px;
   display: grid;
   margin: auto;
   grid-gap: unset;
@@ -462,9 +462,9 @@ body {
   display: grid;
   width: 90%;
   grid-gap: 10px;
-  grid-template-columns: 30% 70%;
+  grid-template-columns: 25% 75%;
   margin-bottom: 10px;
-  height: 88px;
+  height: 80px;
 }
 
 .section2_links {
