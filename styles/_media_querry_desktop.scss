@@ -1,0 +1,168 @@
+/* desktop media querry */
+
+@media only screen and (min-width: 1024px) {
+  #nav_bar1 {
+    display: flex;
+  }
+
+  #nav_bar2 {
+    display: grid;
+  }
+
+  #nav_bar3 {
+    display: none;
+  }
+
+  #logo_top {
+    display: none;
+  }
+
+  #section1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 500px;
+  }
+
+  #section1_box1 {
+    display: grid;
+    grid-column: 1 / 3;
+    grid-template-rows: 90% 10%;
+    grid-row: 1 / 3;
+    box-shadow: inset -5em -20em 9em -2em rgba(0, 0, 0, 0.685);
+  }
+
+  #section1_box2 {
+    display: grid;
+    height: 100%;
+    grid-template-rows: 85% 15%;
+    box-shadow: inset -5em -20em 9em -2em rgba(0, 0, 0, 0.685);
+  }
+
+  #section1_box3 {
+    display: grid;
+    height: 100%;
+    grid-template-rows: 85% 15%;
+    box-shadow: inset -5em -10em 9em -2em rgba(0, 0, 0, 0.685);
+  }
+
+  #title1 {
+    display: flex;
+    width: 90%;
+  }
+
+  #section2 {
+    width: 90%;
+    grid-gap: 25px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+
+  .section2_items {
+    height: 220px;
+  }
+
+  #section3_hide {
+    display: grid;
+  }
+
+  .section2_items > img {
+    width: 100%;
+    height: 135px;
+  }
+
+  #image_title {
+    font-size: 50px;
+  }
+
+  .image_title2,
+  #image_title3 {
+    font-size: 26px;
+  }
+
+  .flex_text {
+    margin: 20px;
+    font-size: 14px;
+  }
+
+  .flex_text > a {
+    font-size: 14px;
+  }
+
+  .section5_items > div {
+    margin-left: 5%;
+  }
+
+  .section2_items > div {
+    display: grid;
+  }
+
+  .section2_items > div > div {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  #title2 {
+    display: flex;
+  }
+
+  #test {
+    display: flex;
+    align-items: center;
+  }
+
+  .section5_items > div > p > a {
+    font-size: 17px;
+  }
+
+  #title2 > div > a {
+    margin-top: 10px;
+  }
+
+  #box_footer2 > a:hover {
+    color: white;
+  }
+
+  #section3 {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    height: 300px;
+  }
+
+  .section3_items {
+    height: 291px;
+  }
+
+  #section4 {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  #section5 {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    height: 600px;
+    width: 90%;
+  }
+
+  .section5_items {
+    height: 201px;
+  }
+
+  .section5_items > img {
+    width: 100%;
+    height: 201px;
+  }
+
+  #box_footer1 {
+    gap: 20px;
+  }
+
+  #title3 {
+    width: 90%;
+  }
+
+  .box_footer1_items {
+    width: 40px;
+    height: 40px;
+  }
+
+  #box_footer2 {
+    gap: 20px;
+  }
+}

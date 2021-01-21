@@ -1,0 +1,145 @@
+/* Tablet size */
+
+@media only screen and (min-width: 768px) {
+  #nav_bar1 {
+    display: flex;
+  }
+
+  #nav_bar2 {
+    grid-template-columns: 80% 15% 5%;
+    display: grid;
+  }
+
+  #nav_bar3 {
+    display: none;
+  }
+
+  #section1 {
+    height: 400px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  #section1_box1 {
+    display: grid;
+    height: auto;
+    grid-column: 1 / 3;
+    grid-template-rows: 90% 10%;
+    grid-row: 1 / 3;
+  }
+
+  #logo_top {
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    padding-right: 15px;
+    padding-left: 15px;
+    height: 100%;
+    color: white;
+  }
+
+  .nav-bar2_links {
+    font-size: 13px;
+  }
+
+  #image_title {
+    font-size: 30px;
+  }
+
+  .image_title2,
+  #image_title3 {
+    font-size: 20px;
+  }
+
+  #section1_box2 {
+    grid-template-rows: 80% 20%;
+  }
+
+  .flex_text {
+    margin: 10px;
+    font-size: 10px;
+  }
+
+  #title2 {
+    display: grid;
+    row-gap: 20px;
+  }
+
+  .hide {
+    display: inline;
+  }
+
+  #title2 > div {
+    display: flex;
+    gap: 2px;
+  }
+
+  #section2 {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .section2_items {
+    grid-template-columns: unset;
+    height: 235px;
+  }
+
+  .section2_items > img {
+    height: 150px;
+    width: 100%;
+  }
+
+  #section3 {
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 250px;
+  }
+
+  .section3_items {
+    height: 287px;
+  }
+
+  #section3_hide {
+    display: none;
+  }
+
+  .layer_top1 > a {
+    margin-left: 21%;
+  }
+
+  .layer_top1 > img {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    margin: 15px 0 0 2%;
+  }
+
+  .layer_top2 > h5 {
+    margin-left: 40%;
+  }
+
+  .layer_top2 > a {
+    margin-left: 40%;
+  }
+
+  #title3 {
+    width: 97%;
+  }
+
+  #section4 {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  #section5 {
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 1000px;
+    width: 97%;
+  }
+
+  .section5_items {
+    height: 273px;
+    grid-template-columns: unset;
+  }
+
+  #box_footer1 {
+    gap: 30px;
+  }
+}

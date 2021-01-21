@@ -1,0 +1,74 @@
+/* SECTION 1 */
+
+body {
+  font-family: ARS Maquette, Helvetica Neue, Arial, sans-serif;
+  width: 100%;
+}
+
+#section1 {
+  display: grid;
+  width: 100%;
+  height: auto;
+  background-color: #f0f0f0;
+  grid-template-columns: unset;
+  grid-gap: 10px;
+  padding: 10px 0 10px 0;
+  margin: 10px auto auto auto;
+}
+
+#section1_box1 {
+  background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/wing-mirror-nuro-driverless-autonomousm-car-delivery-bird-regulations-796x448.jpeg);
+  background-position: center;
+  background-size: cover;
+  grid-column: unset;
+  grid-row: auto;
+  display: grid;
+  height: 194px;
+  grid-template-rows: 80% 20%;
+  align-items: flex-end;
+  box-shadow: inset -5em -10em 9em -2em rgba(0, 0, 0, 0.685);
+}
+
+#image_title {
+  text-decoration: none;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.image_title2 {
+  text-decoration: none;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#section1_box2 {
+  background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Capitol-dating-app-796x417.jpg);
+  background-position: center;
+  background-size: cover;
+  display: grid;
+  grid-template-rows: 80% 20%;
+  align-items: flex-end;
+  height: 194px;
+  box-shadow: inset -5em -20em 9em -2em rgba(0, 0, 0, 0.685);
+}
+
+#section1_box3 {
+  background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Galaxy-hed-796x419.jpg);
+  background-position: center;
+  background-size: cover;
+  display: grid;
+  grid-template-rows: 80% 20%;
+  align-items: flex-end;
+  height: 194px;
+  box-shadow: inset -5em -20em 9em -2em rgba(0, 0, 0, 0.685);
+}
+
+.flex_text {
+  display: flex;
+  font-size: 12px;
+  margin: 10px;
+  column-gap: 8px;
+  color: #979899;
+}
